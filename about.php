@@ -8,7 +8,7 @@
   <meta name="description" content="">
   <meta name="author" content="">
 
-  <title>Small Business - Start Bootstrap Template</title>
+  <title>Small Business - About Us</title>
 
   <!-- Bootstrap core CSS -->
   <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -29,14 +29,14 @@
 
     <!-- Heading Row -->
     <div class="row align-items-center my-5">
-      <div class="col-lg-7">
-        <img class="img-fluid rounded mb-4 mb-lg-0" src="http://placehold.it/900x400" alt="">
-      </div>
       <!-- /.col-lg-8 -->
-      <div class="col-lg-5">
-        <h1 class="font-weight-light">Business Name or Tagline</h1>
-        <p>This is a template that is great for small businesses. It doesn't have too much fancy flare to it, but it makes a great use of the standard Bootstrap core components. Feel free to use this template for any project you want!</p>
-        <a class="btn btn-primary" href="#">Call to Action!</a>
+      <div class="col-lg-12">
+        <h1 class="font-weight-light">About-Us</h1>
+        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Commodi voluptate placeat similique hic! Repellendus totam porro non asperiores eius nam repudiandae quibusdam nesciunt aperiam obcaecati. Voluptate molestias veniam iure eos!</p>
+      </div>
+
+      <div class = "col-lg-12">
+        <img src = "./images/61798466_420082855496735_2809800272564453376_n.png" class="img-fluid w-100" alt="Responsive image">
       </div>
       <!-- /.col-md-4 -->
     </div>
