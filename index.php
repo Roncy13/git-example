@@ -12,8 +12,13 @@
   <!-- Page Content -->
   <div class="container">
 
+    <div class = "col-lg-12">
+      <h3>Page 1</h3>
+    </div>
+
     <!-- Heading Row -->
     <div class="row align-items-center my-5">
+
       <div class="col-lg-7">
         <img class="img-fluid rounded mb-4 mb-lg-0" src="http://placehold.it/900x400" alt="">
       </div>

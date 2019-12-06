@@ -16,7 +16,7 @@
     <div class="row align-items-center my-5">
       <!-- /.col-lg-8 -->
       <div class="col-lg-12">
-        <h1 class="font-weight-light">About-Us</h1>
+        <h1 class="font-weight-light">Page 2</h1>
         <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Commodi voluptate placeat similique hic! Repellendus totam porro non asperiores eius nam repudiandae quibusdam nesciunt aperiam obcaecati. Voluptate molestias veniam iure eos!</p>
       </div>
 

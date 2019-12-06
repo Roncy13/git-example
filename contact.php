@@ -16,7 +16,7 @@
     <div class="row align-items-center my-5">
       <!-- /.col-lg-8 -->
       <div class="col-lg-12">
-        <h1 class="font-weight-light">Contact-Us</h1>
+        <h1 class="font-weight-light">Page 3</h1>
       </div>
       <!-- /.col-md-4 -->
     </div>
