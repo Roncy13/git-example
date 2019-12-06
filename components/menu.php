@@ -19,6 +19,9 @@
           <li class="nav-item">
               <a class="nav-link <?php getFullUrl("about.php"); ?>" href="about.php">About</a>
           </li>
+          <li class="nav-item">
+              <a class="nav-link <?php getFullUrl("contact.php"); ?>" href="contact.php">Contact</a>
+          </li>
         </ul>
       </div>
     </div>
